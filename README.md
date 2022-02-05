@@ -26,14 +26,16 @@ Originally, this showed how to move one Pacman from left to right and right to l
 - Add ghosts
 - Add the ability to delete a ghost upon clicking on the ghost
 
+---------
+
 ## Files 
 - **/images/PacMan1.png** - Facing left with mouth open 
 - **/images/PacMan2.png** - Facing left with mouth closed 
 - **/images/PacMan3.png** - Facing right with mouth open 
 - **/images/PacMan4.png** - Facing right with mouth closed 
-- **/index.html** - Start-up File to be opened by browser 
-- **/styles.css** - Stylesheet file that positions objects, controls text, colors, and layout
-- **/pacman.js** - Javascript file manipulating what is occuring in the browser 
+- **index.html** - Start-up File to be opened by browser 
+- **styles.css** - Stylesheet file that positions objects, controls text, colors, and layout
+- **pacman.js** - Javascript file manipulating what is occuring in the browser 
 
 ---------
 
