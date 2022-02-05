@@ -1,13 +1,16 @@
 <html>
-
-<head>
-    <title>Simulation - Scheduler</title>
-    <!-- DO NOT CHANGE THIS LINE OF CODE -->
+  <head>
+    <link href="./styles.css" rel="stylesheet" />
     <script src="./pacman.js"></script>
-</head>
+  </head>
 
-<body>
-    <img id="PacMan" src="images/PacMan1.png" width='200' onclick="Reverse()" style="position:absolute"> </img>
-</body>
+  <body>
+    <div id="button" class="button top">
+      <button onclick="makeOne()">Add PacMan</button>
+      <button onclick="update()">Start Game</button>
+    </div>
+    <div id="game">
+    </div>
+  </body>
 
 </html>
