@@ -22,6 +22,10 @@ Originally, this showed how to move one Pacman from left to right and right to l
 
 ---------
 
+## Roadmap of future improvements
+- Add ghosts
+- Add the ability to delete a ghost upon clicking on the ghost
+
 ## Files 
 - **/images/PacMan1.png** - Facing left with mouth open 
 - **/images/PacMan2.png** - Facing left with mouth closed 
