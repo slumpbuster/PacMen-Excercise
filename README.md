@@ -65,4 +65,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ---------
 
 ## License
-[The MIT License (MIT)](https://github.com/slumpbuster/Real-Time-Bus-Tracker-Exercise/blob/main/LICENSE)
+[The MIT License (MIT)](https://github.com/slumpbuster/PacMen-Excercise/blob/main/LICENSE)
