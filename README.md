@@ -1,4 +1,5 @@
 # [<img src="images/PacMan1.png" height="25px" width="25px"/>](PacManFront) PacMen [<img src="images/PacMan3.png" height="25px" width="25px"/>](PacManBack)
+# <img src="./images/PacMen.png" height="250px" width="400px"/>
 
 ## Description 
 PacMen move accross the browserfrom right to left within screen boundary, change direction on either hitting the border of the window and eating "air" as they move.
@@ -6,7 +7,25 @@ Originally, this showed how to move one Pacman from left to right and right to l
 
 ---------
 
+## Purpose 
+This was done as an assignment in the MIT course - Full Stack Development with Mern
+
+---------
+
+## Technologies Used 
+- HTML
+- CSS
+- Javascript
+
+---------
+
+## Installation 
+- Clone this repository to your local machine
+
+---------
+
 ## How to Run 
+- Browse to the directory where you cloned this repository
 - Open the .html file in a browser (Chrome, Edge, Safari, Firefox)
 - When the browser is loaded, click on the 'Add PacMan' button *the more you click, the more Pacmen are created
 - Click on the 'Start Game' button to have thhe Pacmen begin moving *You can add more Pacmen at any time by simply clicking on the 'Add Pacman' button
@@ -22,13 +41,14 @@ Originally, this showed how to move one Pacman from left to right and right to l
 
 ---------
 
-## Roadmap of future improvements
+## Roadmap of Future Improvements
 - Add ghosts
 - Add the ability to delete a ghost upon clicking on the ghost
 
 ---------
 
 ## Files 
+- **/images/PacMen.png** - Used in the Readme file 
 - **/images/PacMan1.png** - Facing left with mouth open 
 - **/images/PacMan2.png** - Facing left with mouth closed 
 - **/images/PacMan3.png** - Facing right with mouth open 
@@ -39,35 +59,10 @@ Originally, this showed how to move one Pacman from left to right and right to l
 
 ---------
 
-## Purpose 
-
-This was done as an assignment in the MIT course - Full Stack Development with Mern
+## Contributing 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---------
 
-The MIT License (MIT)
-=====================
-
-Copyright © 2022 slumpbuster
-Copyright © 2020 John Williams
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## License
+[The MIT License (MIT)](https://github.com/slumpbuster/Real-Time-Bus-Tracker-Exercise/blob/main/LICENSE)
