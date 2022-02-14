@@ -5,8 +5,6 @@
 PacMen move accross the browserfrom right to left within screen boundary, change direction on either hitting the border of the window and eating "air" as they move.
 Originally, this showed how to move one Pacman from left to right and right to left in a straight line, changing direction upon hitting a border of the window. Next, it allowed the ability to add more than one Pacman and to have them move not just in a horizontal plane but a vertical plance as well.
 
----------
-
 ## Purpose 
 This was done as an assignment in the MIT course - Full Stack Development with Mern
 
@@ -22,8 +20,6 @@ This was done as an assignment in the MIT course - Full Stack Development with M
 ## Installation 
 - Clone this repository to your local machine
 
----------
-
 ## How to Run 
 - Browse to the directory where you cloned this repository
 - Open the .html file in a browser (Chrome, Edge, Safari, Firefox)
@@ -38,8 +34,6 @@ This was done as an assignment in the MIT course - Full Stack Development with M
 - 2022-02-04: Have Pacman eat "air" as it moves *while in the first version, it was not in the second version
 - 2022-02-04: Changed z position of the buttons to ensure they are always on top *since start position of Pacmen are random, they could be on top of the buttons, and hence block user access
 - 2022-02-04: Moved style to css and javascript to js files
-
----------
 
 ## Roadmap of Future Improvements
 - Add ghosts
@@ -61,8 +55,6 @@ This was done as an assignment in the MIT course - Full Stack Development with M
 
 ## Contributing 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----------
 
 ## License
 [The MIT License (MIT)](https://github.com/slumpbuster/PacMen-Excercise/blob/main/LICENSE)
