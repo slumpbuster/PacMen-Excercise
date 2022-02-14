@@ -1,5 +1,5 @@
-# [<img src="images/PacMan1.png" height="25px" width="25px"/>](PacManFront) PacMen [<img src="images/PacMan3.png" height="25px" width="25px"/>](PacManBack)
-# <img src="./PacMen.png" height="250px" width="400px"/>
+# PacMen
+<img src="./PacMen.png" height="250px" width="400px"/>
 
 ## Description 
 PacMen move accross the browserfrom right to left within screen boundary, change direction on either hitting the border of the window and eating "air" as they move.
